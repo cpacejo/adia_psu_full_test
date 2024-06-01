@@ -1,0 +1,7 @@
+{
+    "DESIGN_NAME": "psu_sequencer",
+    "VERILOG_FILES": "dir::src/*.v",
+    "CLOCK_PORT": "clk",
+    "CLOCK_PERIOD": 31.25,
+    "DESIGN_IS_CORE": true
+}
